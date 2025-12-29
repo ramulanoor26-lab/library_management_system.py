@@ -38,9 +38,16 @@ This project was developed as an academic and learning project to practice Pytho
 ```bash
 python library_management_system.py
 
+## 📁 Project Structure
+
 Library-Management-System/
 │
 ├── library_management_system.py
 └── README.md
+
+## 👤 Author
+RAMULA NOOR  
+Bachelor of Information Technology (BIT) Student  
+ISLAMIC UNIVERSITY IN UGANDA
 
 
