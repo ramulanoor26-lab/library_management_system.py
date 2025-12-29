@@ -38,3 +38,9 @@ This project was developed as an academic and learning project to practice Pytho
 ```bash
 python library_management_system.py
 
+Library-Management-System/
+│
+├── library_management_system.py
+└── README.md
+
+
